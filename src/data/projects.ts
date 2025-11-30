@@ -49,7 +49,7 @@ export const projects: Project[] = [
     description: ['Personal portfolio showcasing projects & experience.Fully responsive and optimized design.'],
     tech: ['Next.js', 'Tailwind CSS'],
     github: '#',
-    demo: '#',
+    demo: 'https://portfolio-zbtq.vercel.app/',
     image: '/project1.png'
   }
 ];
