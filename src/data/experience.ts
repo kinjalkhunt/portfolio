@@ -1,11 +1,12 @@
-export interface Experience {
+export interface Project {
   title: string;
-  company: string;
-  location: string;
-  duration: string;
-  description: string[];
+  description: string[];  
   tech: string[];
+  github: string;
+  demo: string;
+  image: string;
 }
+
 
 export const experiences: Experience[] = [
   {
