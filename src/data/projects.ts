@@ -1,11 +1,12 @@
 export interface Project {
   title: string;
-  description: string[];
+  description: string[];  
   tech: string[];
   github: string;
   demo: string;
-  image?: string;
+  image: string;
 }
+
 
 export const projects: Project[] = [
   {

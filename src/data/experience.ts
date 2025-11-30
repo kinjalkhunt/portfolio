@@ -1,10 +1,10 @@
-export interface Project {
+export interface Experience {
   title: string;
   description: string[];  
   tech: string[];
-  github: string;
-  demo: string;
-  image: string;
+  company: string;
+  location: string;
+  duration: string;
 }
 
 
