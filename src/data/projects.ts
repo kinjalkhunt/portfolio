@@ -37,7 +37,7 @@ export const projects: Project[] = [
 
   {
     title: 'NPJ Jewels / Ikisha Jewels (Frontend Developer)',
-    description: 'Built responsive product pages and optimized UI performance.',
+    description: ['Built responsive product pages and optimized UI performance.'],
     tech: ['React', 'Redux-toolkit', 'Socket.io', 'Tailwind CSS'],
 
     github: '#',
@@ -46,7 +46,7 @@ export const projects: Project[] = [
   },
   {
     title: 'Portfolio Website (Next + Tailwind)',
-    description: 'Personal portfolio showcasing projects & experience.Fully responsive and optimized design.',
+    description: ['Personal portfolio showcasing projects & experience.Fully responsive and optimized design.'],
     tech: ['Next.js', 'Tailwind CSS'],
     github: '#',
     demo: '#',
